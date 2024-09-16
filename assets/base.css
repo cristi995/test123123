@@ -3602,3 +3602,7 @@ details-disclosure > details {
 body {
   background: black !important;
 }
+
+html {
+background: red !important;
+}
